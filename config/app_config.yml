@@ -18,5 +18,5 @@ production:
   <<: *defaults
   domain:
     #host: lvh.me
-    host: shopqi.com
+    host: dormrocker.com
     record: 粤ICP备11089804号
